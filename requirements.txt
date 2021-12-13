@@ -28,7 +28,7 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyterlab==1.0.2
 jupyterlab-server==1.0.0
-lxml==4.3.4
+lxml==4.6.5
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.5.0
